@@ -91,5 +91,4 @@ function main() {
       sendToDiscord(userId, d['id']);
     }
   }
-
 }
